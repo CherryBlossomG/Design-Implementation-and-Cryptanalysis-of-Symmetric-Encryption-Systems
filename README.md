@@ -3,7 +3,7 @@
 
 # Task 1: Symmetric Encryption and Cryptanalysis
 
-Your task is to write a Python program that implements an encryption and decryption system based on a symmetric cipher. In this system, Alice generates a random secret key and uses it to encrypt a message, which is then securely sent to Bob. Bob must be able to receive the encrypted message and correctly decrypt it using the shared key.
+The task is to write a Python program that implements an encryption and decryption system based on a symmetric cipher. In this system, Alice generates a random secret key and uses it to encrypt a message, which is then securely sent to Bob. Bob must be able to receive the encrypted message and correctly decrypt it using the shared key.
 
 The plaintext message to be encrypted is a provided literary text beginning with “From fairest creatures we desire increase…” and continuing through the full passage given in the assignment description. After encryption, Bob receives the ciphered text and successfully reads the original message.
 
